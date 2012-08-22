@@ -7,7 +7,7 @@
     
     <style type="text/css"> 
        body  
-         	{ 
+           	{ 
        		font: 14px/20px Arial,Helvetica,Sans-serif; 
        		color: #555; 
        		background-color: #fff; 
@@ -163,7 +163,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated August 22, 2012</h6>
+<h6>last updated August 4, 2012</h6>
 
 
-</body><style type="text/css">embed[type*="application/x-shockwave-flash"],embed[src*=".swf"],object[type*="application/x-shockwave-flash"],object[codetype*="application/x-shockwave-flash"],object[src*=".swf"],object[codebase*="swflash.cab"],object[classid*="D27CDB6E-AE6D-11cf-96B8-444553540000"],object[classid*="d27cdb6e-ae6d-11cf-96b8-444553540000"],object[classid*="D27CDB6E-AE6D-11cf-96B8-444553540000"]{	display: none !important;}</style></html>
+</body>
