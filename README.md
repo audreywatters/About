@@ -92,6 +92,7 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications </h3>
+<p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012.
 <p>Watters, Audrey, <a href="http://www.insidehighered.com/blogs/hack-higher-education">Inside Higher Ed archive</a>, Winter 2011 - present</p>
 <p>---, "<a href="http://www.schoollibraryjournal.com/slj/printissue/currentissue/894185-427/to_have_and_have_not.html.csp">To Have and Have Not: When It Comes To The Latest Technology, Some Schools Are More Equal Than Others</a>," School Library Journal, May 2012</p>
 <p>---, "<a href="http://www.schoollibraryjournal.com/slj/technology/toolsandtrends/893225-358/the_truth_about_tablets_educators.html.csp">The Truth About Tablets</a>," School Library Journal, February 2012</p>
@@ -111,8 +112,9 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
+<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Education Technology, " Learning 2.0, August 24, 2012.</p>
 <p>Watters, Audrey, with Steve Hargadon. "Drilling Down on the Real Impacts of Emerging Technologies in Education," Emerging Technologies for Online Learning Symposium, July 26, 2012</p>
-<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Education-Technology," CALI conference, San Diego, CA. June 22, 2012</p>
+<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Education Technology," CALI conference, San Diego, CA. June 22, 2012</p>
 <p>Watters, Audrey, with Philipp Schmidt.  "OER from the Edge:  MOOC Shop."  Innovate/Activate.  University of California, Berkeley, April 21, 2012</p>
 <p>---.  "Massive Open Online Classes and the Future of EDU."  Higher Ed Live, April 15, 2012</p>
 <p>Watters, Audrey, with Betsy Corcoran, Lisa Wolfe, and Frank Catalano.  "Ed-Tech Reporting: Why It Sucks and What We Should Do About It."  SXSWedu.  March 8, 2012</p>
@@ -132,22 +134,23 @@
 <p>Watters, Audrey, with Steve Hargadon.  Hack Education Weekly Podcast
 <p>Guest appearances on The Digital Campus
 <h3>Courses Taught</h3>
-<p>Comparative Literature 399 Gender and Identity in Literature, Summer 2007</p>
-<p>Comparative Literature 103 Introduction to Comparative Literature: Visual Culture, Spring 2007</p>
-<p>Comparative Literature 204 World of Fiction: Clowns and Tricksters, Winter 2007, Winter 2005</p>
-<p>Comparative Literature 399 World of Film: Gangsters in Popular Culture, Fall 2006, Fall 2005, Summer 2005</p>
-<p>Comparative Literature 204 World of Fiction: Sixties Counterculture(s), Summer 2006, Winter 2006</p>
-<p>Comparative Literature 204 World of Fiction: World Science Fiction, Spring 2006, Summer 2004</p>
-<p>Comparative Literature 202 World of Drama: Manifesto as Political Theater, Spring 2005</p>
-<p>Writing 122 College Composition II, Fall 2003, Fall 2002, Winter 2002, Spring 2002</p>
-<p>Women and Gender Studies 399 Feminist Science Fiction: Monsters, Cyborgs, and Women, Summer 2003</p>
-<p>Writing 121 College Composition I, Fall 2001</p>
-<p>Womens Studies 408 Anarcha-feminism, Summer 2001   </p>
+<p>Writing for the Web, P2PU, Spring 2012</p>
+<p>Comparative Literature 399 Gender and Identity in Literature, University of Oregon, Summer 2007</p>
+<p>Comparative Literature 103 Introduction to Comparative Literature: Visual Culture, University of Oregon, Spring 2007</p>
+<p>Comparative Literature 204 World of Fiction: Clowns and Tricksters, University of Oregon, Winter 2007, Winter 2005</p>
+<p>Comparative Literature 399 World of Film: Gangsters in Popular Culture, University of Oregon, Fall 2006, Fall 2005, Summer 2005</p>
+<p>Comparative Literature 204 World of Fiction: Sixties Counterculture(s), University of Oregon, Summer 2006, Winter 2006</p>
+<p>Comparative Literature 204 World of Fiction: World Science Fiction, University of Oregon, Spring 2006, Summer 2004</p>
+<p>Comparative Literature 202 World of Drama: Manifesto as Political Theater, University of Oregon, Spring 2005</p>
+<p>Writing 122 College Composition II, University of Oregon, Fall 2003, Fall 2002, Winter 2002, Spring 2002</p>
+<p>Women and Gender Studies 399 Feminist Science Fiction: Monsters, Cyborgs, and Women, University of Oregon, Summer 2003</p>
+<p>Writing 121 College Composition I, University of Oregon, Fall 2001</p>
+<p>Womens Studies 408 Anarcha-feminism, University of Oregon, Summer 2001   </p>
 <h3>Teaching Assistantships</h3>
-<p>Comparative Literature 101 Literature, Language, Culture, (Prof. Leah Middlebrook) Fall 2004</p>
-<p>English 266 History of the Motion Picture: World War II to the Present, (Prof. Michael Aronson, Prof. Kathleen Karlyn) Spring 2004, Spring 2003</p>
-<p>English 265 History of the Motion Picture: The Silent Era to World War II, (Prof. Michael Aronson, Prof. Lesli Larson) Winter 2004, Winter 2003</p>
-<p>English 250 Introduction to Folklore, (Prof. Sharon Sherman) Fall 1999</p>
+<p>Comparative Literature 101 Literature, Language, Culture, (Prof. Leah Middlebrook), University of Oregon,  Fall 2004</p>
+<p>English 266 History of the Motion Picture: World War II to the Present, (Prof. Michael Aronson, Prof. Kathleen Karlyn), University of Oregon,  Spring 2004, Spring 2003</p>
+<p>English 265 History of the Motion Picture: The Silent Era to World War II, (Prof. Michael Aronson, Prof. Lesli Larson), University of Oregon,  Winter 2004, Winter 2003</p>
+<p>English 250 Introduction to Folklore, (Prof. Sharon Sherman), University of Oregon,  Fall 1999</p>
 <h3>Academic Conference Papers</h3>
 <p>Vanderford, Audrey. Spoiling <i>Survivor</i>. Western States Folklore Society Meeting. Eugene, OR. April 15-16, 2005</p>
 <p>---. Detournement and the Anarchist Practice of Defamiliarization. (in absentia) MMLA conference. St. Louis, MO. November 4-7, 2004</p> 
@@ -157,13 +160,14 @@
 <p>---. Whose Streets? Our Streets! Whose World? Our World! -- Narratives and Negotiation after the WTO, California Folklore Society Meeting. Berkeley, CA, April 14-15, 2000</p>
 <p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Awards and Activities</h3>
+<p>Reviewer, Learning Design and Technology Expo, Stanford University, Summer 2012.</p>
 <p>Co-chair, Education strand at OSCON, 2012</p>
 <p>Media Predicts 2012, Silicon Valley, 2011</p>
 <p>Beall Dissertation Prospectus Award, Comparative Literature Program, University of Oregon, 2005</p>
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated August 4, 2012</h6>
+<h6>last updated August 31, 2012</h6>
 
 
 </body>
