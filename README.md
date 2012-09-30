@@ -92,6 +92,7 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications </h3>
+<p>Watters, Audrey, "Unbundling and Unmooring," EDUCAUSE Review, September 2012.
 <p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012.
 <p>Watters, Audrey, <a href="http://www.insidehighered.com/blogs/hack-higher-education">Inside Higher Ed archive</a>, Winter 2011 - present</p>
 <p>---, "<a href="http://www.schoollibraryjournal.com/slj/printissue/currentissue/894185-427/to_have_and_have_not.html.csp">To Have and Have Not: When It Comes To The Latest Technology, Some Schools Are More Equal Than Others</a>," School Library Journal, May 2012</p>
