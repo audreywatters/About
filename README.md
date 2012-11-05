@@ -7,7 +7,7 @@
     
     <style type="text/css"> 
        body  
-           	{ 
+       		{ 
        		font: 14px/20px Arial,Helvetica,Sans-serif; 
        		color: #555; 
        		background-color: #fff; 
@@ -92,8 +92,8 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications </h3>
-<p>Watters, Audrey, "Unbundling and Unmooring," EDUCAUSE Review, September 2012
-<p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012
+<p>Watters, Audrey, "Unbundling and Unmooring," EDUCAUSE Review, September 2012</p>
+<p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012</p>
 <p>Watters, Audrey, <a href="http://www.insidehighered.com/blogs/hack-higher-education">Inside Higher Ed archive</a>, Winter 2011 - present</p>
 <p>---, "<a href="http://www.schoollibraryjournal.com/slj/printissue/currentissue/894185-427/to_have_and_have_not.html.csp">To Have and Have Not: When It Comes To The Latest Technology, Some Schools Are More Equal Than Others</a>," School Library Journal, May 2012</p>
 <p>---, "<a href="http://www.schoollibraryjournal.com/slj/technology/toolsandtrends/893225-358/the_truth_about_tablets_educators.html.csp">The Truth About Tablets</a>," School Library Journal, February 2012</p>
@@ -113,9 +113,10 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
-<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Education Technology, " Learning 2.0, August 24, 2012.</p>
+<p>Watters, Audrey. "Publishing Outside the Academy." THATCamp Hybrid Pedagogy, October 21, 2012.
+<p>---. "Ed-Tech and the 3 Laws of Robotics, " Learning 2.0, August 24, 2012.</p>
 <p>Watters, Audrey, with Steve Hargadon. "Drilling Down on the Real Impacts of Emerging Technologies in Education," Emerging Technologies for Online Learning Symposium, July 26, 2012</p>
-<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Education Technology," CALI conference, San Diego, CA. June 22, 2012</p>
+<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Robotics," CALI conference, San Diego, CA. June 22, 2012</p>
 <p>Watters, Audrey, with Philipp Schmidt.  "OER from the Edge:  MOOC Shop."  Innovate/Activate.  University of California, Berkeley, April 21, 2012</p>
 <p>---.  "Massive Open Online Classes and the Future of EDU."  Higher Ed Live, April 15, 2012</p>
 <p>Watters, Audrey, with Betsy Corcoran, Lisa Wolfe, and Frank Catalano.  "Ed-Tech Reporting: Why It Sucks and What We Should Do About It."  SXSWedu.  March 8, 2012</p>
@@ -168,7 +169,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated August 31, 2012</h6>
+<h6>last updated November 2012</h6>
 
 
 </body>
