@@ -1,4 +1,11 @@
-       <style type="text/css"> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0032)http://audreywatters.com/cv.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <title> 
+       Audrey Watters: Curriculum Vitae 
+    </title> 
+    
+    <style type="text/css"> 
        body  
        		{ 
        		font: 14px/20px Arial,Helvetica,Sans-serif; 
@@ -107,11 +114,14 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
-<p>Watters, Audrey. panelist, Beyond the Textbook, New York University, November 30, 2012.</p>
+<p>Watters, Audrey. "The Case for the Campus Makerspace," ELI Annual Meeting, February 6, 2013.</p>
+<p>---. panelist, 2013 Horizon Report, ELI Annual Meeting, February 4, 2013.</p>
+<p>---. "The Politics of Ed-tech." Educon, January 27, 2013.</p>
+<p>---. panelist, Beyond the Textbook, New York University, November 30, 2012.</p>
 <p>---.  "Publishing Outside the Academy." THATCamp Hybrid Pedagogy, October 21, 2012.</p>
 <p>---. "Ed-Tech and the 3 Laws of Robotics, " Learning 2.0, August 24, 2012.</p>
 <p>Watters, Audrey, with Steve Hargadon. "Drilling Down on the Real Impacts of Emerging Technologies in Education," Emerging Technologies for Online Learning Symposium, July 26, 2012</p>
-<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Robotics," CALI conference, San Diego, CA. June 22, 2012</p>
+<p>Watters, Audrey. "Ed-Tech and the 3 Laws of Robotics," CALI conference, June 22, 2012</p>
 <p>Watters, Audrey, with Philipp Schmidt.  "OER from the Edge:  MOOC Shop."  Innovate/Activate.  University of California, Berkeley, April 21, 2012</p>
 <p>---.  "Massive Open Online Classes and the Future of EDU."  Higher Ed Live, April 15, 2012</p>
 <p>Watters, Audrey, with Betsy Corcoran, Lisa Wolfe, and Frank Catalano.  "Ed-Tech Reporting: Why It Sucks and What We Should Do About It."  SXSWedu.  March 8, 2012</p>
@@ -121,9 +131,9 @@
 <p>Vanderford, Audrey. Zine workshop. ENG 410/510 Community Literacy. Prof. Suzanne Clark. University of Oregon. Summer, 2004, Summer 2002, Summer 2001</p>
 <p>---.  "Reality TV: Postmodernism, the Hyperreal, <i>The Osbournes</i>." Guest lecture. English 266 History of the Motion Picture: World War II to the present. University of Oregon, May 28, 2003</p>
 <p>---.  Freedom and Focus: Engaging Students with Innovative Units panel. Composition and Community Fall Composition Conference, University of Oregon, September 25, 2002</p>
-<p>---. "Anarcha-feminism." Anarchy: The Intentional Creation of a New Movement. Eugene, OR. June 12, 2002</p>
+<p>---. "Anarcha-feminism." Anarchy: The Intentional Creation of a New Movement. June 12, 2002</p>
 <p>---. Theory and Practice panel. Ecological Conversations Colloquium. University of Oregon, May 6, 2002</p>
-<p>---. "Anarchism and Feminism." Against Patriarchy conference. Eugene, OR, January 27, 2002</p> 
+<p>---. "Anarchism and Feminism." Against Patriarchy conference. January 27, 2002</p> 
 <p>---. "Pie Politics." <i>To the Point</i>. Public Radio International. May 21, 2001</p>
 <p>Richardson, Tina and Audrey Vanderford, Boobs and Butterflies: Eco-feminine Complicity (Or, How to Manufacture an Environmental Pin-up Girl). Ecological Conversations Seminar. University of Oregon, April 6, 2001</p>
 <p>Vanderford, Audrey. Folklore and Religion. Guest lecture. English 250 Introduction to Folklore. University of Oregon, November 11, 1999</p>
@@ -164,7 +174,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated December 2012</h6>
+<h6>last updated February 2013</h6>
 
 
 </body>
