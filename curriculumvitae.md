@@ -115,6 +115,7 @@
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
 <p>Watters, Audrey. "Who Owns Your Education Data? (And Why Does It Matter?" ETMOOC, February 26, 2013.</p>
+<p>---, panelist, Education and APIs, API Business and Strategy Conference, February 22, 2013</p>
 <p>---. "Who Owns Your Education Data?" Disrupting Higher Education, Trinity College February 19. 2013.</p>
 <p>---. "The Case for the Campus Makerspace," ELI Annual Meeting, February 6, 2013.</p>
 <p>---. panelist, 2013 Horizon Report, ELI Annual Meeting, February 4, 2013.</p>
