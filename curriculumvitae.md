@@ -114,6 +114,10 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
+<p>Watters, Audrey, with Mako Hill and Philipp Schmidt. "Open Learning," MIT Media Lab, March 11, 2013.</p>
+<p>Watters, Audrey, "Whose Learning Is It Anyway?" WebWise, March 8, 2013</p>
+<p>Watters, Audrey, with Steve Weber, Steven Hodas, and Jess Bialecki, "Building Schools into the Innovation Ecosystem," SXSWedu, March 5, 2013</p>
+<p>Watters, Audrey, with Richard Culatta, Sir Jim Knight, and Rod Berger, "A Lord, a Lady and a Deputy Walk into a..." SXSWedu, March 5, 2013</p>
 <p>Watters, Audrey. "Who Owns Your Education Data? (And Why Does It Matter?" ETMOOC, February 26, 2013.</p>
 <p>---, panelist, Education and APIs, API Business and Strategy Conference, February 22, 2013</p>
 <p>---. "Who Owns Your Education Data?" Disrupting Higher Education, Trinity College February 19. 2013.</p>
@@ -171,6 +175,7 @@
 <p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Awards and Activities</h3>
 <p>Fellow, Educause Learning Initiative, Winter 2013 - present.</p>
+<p>Advisory Board, SXSWedu, 2012.</p>
 <p>Reviewer, Learning Design and Technology Expo, Stanford University, Summer 2012.</p>
 <p>Co-chair, Education strand at OSCON, 2012</p>
 <p>Media Predicts 2012, Silicon Valley, 2011</p>
