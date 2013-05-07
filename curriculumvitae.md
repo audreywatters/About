@@ -92,7 +92,8 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications </h3>
-<p>Watters, Audrey. "Confessions of a MOOC-her," Campus Technology, December 2012</p>
+<p>Watters, Audrey. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
+<p>---. "Confessions of a MOOC-her," Campus Technology, December 2012</p>
 <p>---. "Unbundling and Unmooring," EDUCAUSE Review, September 2012</p>
 <p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012</p>
 <p>Watters, Audrey. <a href="http://www.insidehighered.com/blogs/hack-higher-education">Inside Higher Ed archive</a>, Winter 2011 - present</p>
@@ -114,6 +115,8 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
+<p>Watters, Audrey. "[Expletive Deleted] Ed-Tech," Ed-Tech Innovation, May 3, 2013.</p>
+<p>---. "The Three Laws of Ed-Tech Robotics," TEDxNYED, April 27, 2013</p>
 <p>Watters, Audrey, with Mako Hill and Philipp Schmidt. "Open Learning," MIT Media Lab, March 11, 2013.</p>
 <p>Watters, Audrey, "Whose Learning Is It Anyway?" WebWise, March 8, 2013</p>
 <p>Watters, Audrey, with Steve Weber, Steven Hodas, and Jess Bialecki, "Building Schools into the Innovation Ecosystem," SXSWedu, March 5, 2013</p>
@@ -183,7 +186,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated March 2013</h6>
+<h6>last updated May 2013</h6>
 
 
 </body>
