@@ -115,8 +115,9 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
+<p>Watters, Audrey and Kin Lane. "The LMS as Portal," InstructureCon, June 19, 2013.</p>
 <p>Watters, Audrey. "[Expletive Deleted] Ed-Tech," Ed-Tech Innovation, May 3, 2013.</p>
-<p>---. "The Three Laws of Ed-Tech Robotics," TEDxNYED, April 27, 2013</p>
+<p>---. "<a href="http://youtu.be/_CdrDKG48vw">The Three Laws of Ed-Tech Robotics</a>," TEDxNYED, April 27, 2013</p>
 <p>Watters, Audrey, with Mako Hill and Philipp Schmidt. "Open Learning," MIT Media Lab, March 11, 2013.</p>
 <p>Watters, Audrey, "Whose Learning Is It Anyway?" WebWise, March 8, 2013</p>
 <p>Watters, Audrey, with Steve Weber, Steven Hodas, and Jess Bialecki, "Building Schools into the Innovation Ecosystem," SXSWedu, March 5, 2013</p>
@@ -148,8 +149,9 @@
 <p>Richardson, Tina and Audrey Vanderford, Boobs and Butterflies: Eco-feminine Complicity (Or, How to Manufacture an Environmental Pin-up Girl). Ecological Conversations Seminar. University of Oregon, April 6, 2001</p>
 <p>Vanderford, Audrey. Folklore and Religion. Guest lecture. English 250 Introduction to Folklore. University of Oregon, November 11, 1999</p>
 <h3>Podcasts</h3>
-<p>Watters, Audrey, with Steve Hargadon.  Hack Education Weekly Podcast, 2011 - present.
-<p>Guest appearances on The Digital Campus
+<p>Watters, Audrey, with Steve Hargadon.  Hack Education Weekly Podcast, 2011 - present.</p>
+<p>Guest appearance on Edukwest</p>
+<p>Guest appearances on The Digital Campus</p>
 <h3>Courses Taught</h3>
 <p>Writing for the Web, P2PU, Spring 2012</p>
 <p>Comparative Literature 399 Gender and Identity in Literature, University of Oregon, Summer 2007</p>
@@ -186,7 +188,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated May 2013</h6>
+<h6>last updated June 2013</h6>
 
 
 </body>
