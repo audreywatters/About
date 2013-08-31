@@ -115,6 +115,7 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>    Presentations</h3>
+<p>Watters, Audrey, with Gardner Campbell and Steve Hargadon. "Disruptive Innovation and Higher Ed" panel, Virginia Community Colleges' Chancellor's Planning Retreat, August 13-14, 2013</p>
 <p>Watters, Audrey and Kin Lane. "The LMS as Portal," InstructureCon, June 19, 2013.</p>
 <p>Watters, Audrey. "[Expletive Deleted] Ed-Tech," Ed-Tech Innovation, May 3, 2013.</p>
 <p>---. "<a href="http://youtu.be/_CdrDKG48vw">The Three Laws of Ed-Tech Robotics</a>," TEDxNYED, April 27, 2013</p>
@@ -179,8 +180,11 @@
 <p>---. Whose Streets? Our Streets! Whose World? Our World! -- Narratives and Negotiation after the WTO, California Folklore Society Meeting. Berkeley, CA, April 14-15, 2000</p>
 <p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Awards and Activities</h3>
+<p>Advisor, Working Examples, Summer 2013 - present.</p>
 <p>Fellow, Educause Learning Initiative, Winter 2013 - present.</p>
-<p>Advisory Board, SXSWedu, 2012.</p>
+<p>Advisory Board, SXSWedu, 2012-present.</p>
+<p>Judge, Reclaim Open, Summer 2013.</p>
+<p>Judge, LTI App Bounty, Spring 2013.</p>
 <p>Reviewer, Learning Design and Technology Expo, Stanford University, Summer 2012.</p>
 <p>Co-chair, Education strand at OSCON, 2012</p>
 <p>Media Predicts 2012, Silicon Valley, 2011</p>
@@ -188,7 +192,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated June 2013</h6>
+<h6>last updated August 2013</h6>
 
 
 </body>
