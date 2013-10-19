@@ -91,8 +91,9 @@
 <p>IB</p>
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
-<h3>Publications </h3>
-<p>Watters, Audrey. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
+<h3>Publications</h3>
+<p>Watters, Audrey. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." The Atlantic, October 2013</p>
+<p>---. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
 <p>---. "Confessions of a MOOC-her," Campus Technology, December 2012</p>
 <p>---. "Unbundling and Unmooring," EDUCAUSE Review, September 2012</p>
 <p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012</p>
@@ -114,7 +115,10 @@
 <p>---. "The Legacy of Julia Butterfly Hill" [book review]. <i>Women and Environments International.</i> 52/53 (2001): 45-46</p>
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
-<h3>    Presentations</h3>
+<h3>Presentations</h3>
+<p>Watters, Audrey. "Student Data is the New Oil: MOOCs, Metaphors, and Money." Columbia University, October 16, 2013</p>
+<p>---. "A Future With Only 10 Universities," Minding the Future, October 14, 2013</p>
+<p>Watters, Audrey, with Gardner Campbell, David Wiley, Alan Levine, and Kin Lane. Minding the Future panel. October 14, 2013</p>
 <p>Watters, Audrey, with Gardner Campbell and Steve Hargadon. "Disruptive Innovation and Higher Ed" panel, Virginia Community Colleges' Chancellor's Planning Retreat, August 13-14, 2013</p>
 <p>Watters, Audrey and Kin Lane. "The LMS as Portal," InstructureCon, June 19, 2013.</p>
 <p>Watters, Audrey. "[Expletive Deleted] Ed-Tech," Ed-Tech Innovation, May 3, 2013.</p>
@@ -192,7 +196,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated August 2013</h6>
+<h6>last updated October 2013</h6>
 
 
 </body>
