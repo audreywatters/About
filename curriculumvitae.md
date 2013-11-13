@@ -116,6 +116,8 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>Presentations</h3>
+<p>Watters, Audrey. “The Education Apocalypse.” Open Education 2013, November 7, 2013</p>
+<p>Watters, Audrey with Steve Hargadon. “Learning and Technology: Openness, Agency, and Control.” K12 Online, October 21, 2013</p>
 <p>Watters, Audrey. "Student Data is the New Oil: MOOCs, Metaphors, and Money." Columbia University, October 16, 2013</p>
 <p>---. "A Future With Only 10 Universities," Minding the Future, October 14, 2013</p>
 <p>Watters, Audrey, with Gardner Campbell, David Wiley, Alan Levine, and Kin Lane. Minding the Future panel. October 14, 2013</p>
