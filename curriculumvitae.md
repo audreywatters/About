@@ -198,7 +198,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated October 2013</h6>
+<h6>last updated November 2013</h6>
 
 
 </body>
