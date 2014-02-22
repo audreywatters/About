@@ -62,6 +62,7 @@
 <hr>
 <h3>   Professional Experience</h3>
 <p>Writer/Owner, <a href="http://hackeducation.com">Hack Education</a>, Spring 2010 - present</p>
+<p>Editor and Lead Writer, <a href="http://modernlearners.com">Educating Modern Leaders</a>, Spring 2014 - present</p>
 <p>Freelance Writer, Spring 2010 - present</p>
 <p>Special Interest Group Program Manager, International Society for Technology in Education (ISTE), Spring 2008 - Spring 2010</p>
 <p>Graduate Teaching Fellowship, University of Oregon, Fall 1999 - Fall 2000, Fall 2001 - Summer 2007</p> 
@@ -92,6 +93,7 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications</h3>
+<p>Watters, Audrey. "Big Data: Who Really Benefits?" World Innovation Summit for Education, January 2014</p>
 <p>Watters, Audrey. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." The Atlantic, October 2013</p>
 <p>---. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
 <p>---. "Confessions of a MOOC-her," Campus Technology, December 2012</p>
@@ -105,8 +107,8 @@
 <p>---. <a href="http://www.edutopia.org/blog/52839">Edutopia archive</a>, Summer 2011 - Fall 2011</p>
 <p>---. <a href="http://www.readwriteweb.com/archives/author/audrey-watters.php">ReadWriteWeb archive</a>, Spring 2010 - Summer 2011</p>
 <p>---. <a href="http://www.huffingtonpost.com/audrey-watters">Huffington Post archive</a>, Winter 2011 - Spring 2011</p>
-<p>Vanderford, Audrey. "Activism." <i>Encyclopedia of Womens Folklore and Folklore</i>. ed. Ed Liz Locke, Theresa A Vaughan and Pauline Greenhill. Westport: Greenwood Press,2009, 3-4</p>
-<p>---. "Consciousness Raising." <i>Encyclopedia of Womens Folklore and Folklore</i>. ed. Ed Liz Locke, Theresa A Vaughan and Pauline Greenhill. Westport: Greenwood Press, 2009, 97-99</p>
+<p>Vanderford, Audrey. "Activism." <i>Encyclopedia of Women's Folklore and Folklife</i>. ed. Ed Liz Locke, Theresa A Vaughan and Pauline Greenhill. Westport: Greenwood Press,2009, 3-4</p>
+<p>---. "Consciousness Raising." <i>Encyclopedia of Women's Folklore and Folklife</i>. ed. Ed Liz Locke, Theresa A Vaughan and Pauline Greenhill. Westport: Greenwood Press, 2009, 97-99</p>
 <p>---. "Emma Goldman." <i>Encyclopedia of Women's Autobiography</i>. ed. Victoria Boynton and Jo Malin. Westport: Greenwood Press, 2005, 250-252</p>
 <p>Richardson, Tina and Audrey Vanderford. "Butterflies and Boobs (Or, How to Manufacture an Environmental Pin-Up Girl)". <i>Women and the Media: National and Global Perspectives</i>. ed. Teresa Carilli and Jane Campbell. Lanham: University Press of America, 2005, 169-183</p>
 <p>Vanderford, Audrey. Review of <i>The Raw Brunettes</i>[Lorraine Schein]. <i>FEMSPEC</i>. 4.2 (2004): 184-187</p>
@@ -116,6 +118,9 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>Presentations</h3>
+<p>Watters, Audrey. "The History of the Future of Ed-Tech," EdTechTeacher iPad Summit, February 4, 2014.</p>
+<p>Watters, Audrey and Jose Vilson, "The Privileged Voices in Education," Educon, January 26, 2014.</p>
+<p>Watters, Audrey with Bryan Alexander, Anya Kamenetz, Ray Schroeder, Cathy De Rosa, and Skip Pritchard. "The Hype and Hope of MOOCs," OCLC Americas Member Meeting and Symposium, January 24, 2014.</p>
 <p>Watters, Audrey. "Education APIs: The Good, The Bad, and The Ugly," API Days, December 5, 2013</p>
 <p>---. "The State of Global OER," AMICAL (webinar), November 25, 2013</p>
 <p>---. “The Education Apocalypse.” Open Education 2013, November 7, 2013</p>
@@ -200,7 +205,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated December 2013</h6>
+<h6>last updated February 2014</h6>
 
 
 </body>
