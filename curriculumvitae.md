@@ -163,7 +163,7 @@
 <p>Richardson, Tina and Audrey Vanderford, Boobs and Butterflies: Eco-feminine Complicity (Or, How to Manufacture an Environmental Pin-up Girl). Ecological Conversations Seminar. University of Oregon, April 6, 2001</p>
 <p>Vanderford, Audrey. Folklore and Religion. Guest lecture. English 250 Introduction to Folklore. University of Oregon, November 11, 1999</p>
 <h3>Podcasts</h3>
-<p>Watters, Audrey, with Steve Hargadon.  Hack Education Weekly Podcast, 2011 - present.</p>
+<p>Watters, Audrey, with Steve Hargadon.  Hack Education Weekly Podcast, 2011 - 2013.</p>
 <p>Guest appearance on Edukwest</p>
 <p>Guest appearances on The Digital Campus</p>
 <h3>Courses Taught</h3>
