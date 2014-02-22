@@ -94,7 +94,7 @@
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications</h3>
 <p>Watters, Audrey. "Big Data: Who Really Benefits?" World Innovation Summit for Education, January 2014</p>
-<p>Watters, Audrey. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." The Atlantic, October 2013</p>
+<p>---. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." The Atlantic, October 2013</p>
 <p>---. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
 <p>---. "Confessions of a MOOC-her," Campus Technology, December 2012</p>
 <p>---. "Unbundling and Unmooring," EDUCAUSE Review, September 2012</p>
