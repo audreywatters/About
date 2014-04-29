@@ -119,6 +119,10 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>Presentations</h3>
+<p>Watters, Audrey with Kin Lane, "Reclaim Your Domain," Domain of One's Own Atlanta Regional Incubator, April 26, 2014</p>
+<p>Watters, Audrey, "Beneath the Cobblestones, a Domain of One's Own," Domain of One's Own Atlanta Regional Incubator, April 25, 2014</p>
+<p>Watters, Audrey with Drew Davidson, "Reaching Our Audiences: Strategies for Disseminating Research, Design, and Practice," Working Examples, April 15, 2014</p>
+<p>Watters, Audrey, "Engaging Flexible Learning," BC Digital Learning Conference, April 8, 2014</p>
 <p>Watters, Audrey with David Kernohan, Lou McGill, Jonathan Worth, Antonio Martinez-Arboleda, Viv Rolfe, George Roberts, Lorna Campbell, Jim Groom, and David Wiley. "Beyond MOOCs," Digifest, March 12, 2014</p>
 <p>Watters, Audrey with George Veletsianos, Amy Collier, and Tanya Joosten. "Startups Should Talk with Researchers and Educators," SXSWedu, March 5, 2014</p>
 <p>Watters, Audrey. "The History of the Future of Ed-Tech," EdTechTeacher iPad Summit, February 4, 2014</p>
@@ -209,7 +213,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated March 2014</h6>
+<h6>last updated April 2014</h6>
 
 
 </body>
