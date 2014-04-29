@@ -203,7 +203,7 @@
 <p>Advisor, Working Examples, Summer 2013 - present</p>
 <p>Advisory Board, SXSWedu, 2012-present</p>
 <p>Judge, Canvas Innovation Grant, Spring 2014</p>
-<p>Fellow, Educause Learning Initiative, Winter 2013 - Winter 2014.</p>
+<p>Fellow, Educause Learning Initiative, Winter 2013 - Winter 2014</p>
 <p>Judge, Reclaim Open, Summer 2013</p>
 <p>Judge, LTI App Bounty, Spring 2013</p>
 <p>Reviewer, Learning Design and Technology Expo, Stanford University, Summer 2012</p>
