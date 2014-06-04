@@ -119,6 +119,10 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>Presentations</h3>
+<p>Watters, Audrey with Kin Lane, "Reclaim Your Domain," API Days Mediterranea, May 29, 2014</p>
+<p>Watters, Audrey, "The Future of Ed-Tech is a Reclamation Project," Alberta Digital Learning Forum, May 22, 2014</p>
+<p>---, "Against Innovation," Canadian Network for Innovation in Education, May 14, 2014</p>
+<p>---, "Robots and Education Labor," Berkeley City College, May 10, 2014</p>
 <p>Watters, Audrey with Kin Lane, "Reclaim Your Domain," Domain of One's Own Atlanta Regional Incubator, April 26, 2014</p>
 <p>Watters, Audrey, "Beneath the Cobblestones, a Domain of One's Own," Domain of One's Own Atlanta Regional Incubator, April 25, 2014</p>
 <p>Watters, Audrey with Drew Davidson, "Reaching Our Audiences: Strategies for Disseminating Research, Design, and Practice," Working Examples, April 15, 2014</p>
@@ -213,7 +217,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated April 2014</h6>
+<h6>last updated June 2014</h6>
 
 
 </body>
