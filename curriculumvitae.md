@@ -119,6 +119,8 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>Presentations</h3>
+<p>Watters, Audrey, "Un-fathom-able: The Hidden History of Ed-Tech," CETIS 2014, June 18, 2014</p>
+<p>Watters Audrey with Li Yuan, Stephen Powell, and Amy Woodgate, "Open Education: A New World Order," CETIS 2014, June 17, 2014</p>
 <p>Watters, Audrey with Kin Lane, "Reclaim Your Domain," API Days Mediterranea, May 29, 2014</p>
 <p>Watters, Audrey, "The Future of Ed-Tech is a Reclamation Project," Alberta Digital Learning Forum, May 22, 2014</p>
 <p>---, "Against Innovation," Canadian Network for Innovation in Education, May 14, 2014</p>
@@ -205,7 +207,7 @@
 <p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Awards and Activities</h3>
 <p>Advisor, Working Examples, Summer 2013 - present</p>
-<p>Advisory Board, SXSWedu, 2012-present</p>
+<p>Advisory Board, SXSWedu, 2012 - 2014</p>
 <p>Judge, Canvas Innovation Grant, Spring 2014</p>
 <p>Fellow, Educause Learning Initiative, Winter 2013 - Winter 2014</p>
 <p>Judge, Reclaim Open, Summer 2013</p>
