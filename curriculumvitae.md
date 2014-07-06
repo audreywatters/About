@@ -56,7 +56,7 @@
     <body screen_capture_injected="true">
     
 <h1>Audrey Watters</h1>
-<h2>email: <a href="mailto:"audrey.watters@gmail.com"">audrey.watters@gmail.com</a></h2>
+<h2>email: <a href="mailto:"mail@audreywatters.com"">mail@audreywatters.com</a></h2>
 <h2> web: <a href="http://audreywatters.com/">audreywatters.com</a></h2>
 <h2> twitter: <a href="http://twitter.com/audreywatters">@audreywatters</a></h2>
 <hr>
