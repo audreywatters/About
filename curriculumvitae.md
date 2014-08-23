@@ -56,7 +56,7 @@
     <body screen_capture_injected="true">
     
 <h1>Audrey Watters</h1>
-<h2>email: <a href="mailto:"mail@audreywatters.com"">mail@audreywatters.com</a></h2>
+<h2>email: <a href="mailto:mail@audreywatters.com">mail@audreywatters.com</a></h2>
 <h2> web: <a href="http://audreywatters.com/">audreywatters.com</a></h2>
 <h2> twitter: <a href="http://twitter.com/audreywatters">@audreywatters</a></h2>
 <hr>
@@ -93,7 +93,9 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications</h3>
-"Watters, Audrey," "Rise of the Machines," EdTech Magazine, Spring 2014</p>
+<p>Watters, Audrey. "How Will the Ed-Tech Industry Shape Student Reading?" Knowledge Quest, September 2014.</p>
+<p>---. "Decoding 'Everyone Should Learn to Code.'" World Innovation Summit for Education, August 2014.</p>
+<p>---. "Rise of the Machines," EdTech Magazine, Spring 2014</p>
 <p>---. "Big Data: Who Really Benefits?" World Innovation Summit for Education, January 2014</p>
 <p>---. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." The Atlantic, October 2013</p>
 <p>---. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
@@ -119,6 +121,7 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>Presentations</h3>
+<p>Watters, Audrey, with Justin Reich, Vanessa Gennarelli, and Andrew Sliwinski. "Better Learning Analytics: Lessons from EdX, Hack Education, Mozilla + P2PU," P2PU webinar, August 19, 2014.</p>
 <p>Watters, Audrey, with Jonathan Worth, Jade Davis, Howard Rheingold, Martha Burtis, and Anne Balsamo. "Higher Education as a Trusted Environment for Learning," HASTAC webinar, July 29, 2014</p>
 <p>Watters, Audrey, "Un-fathom-able: The Hidden History of Ed-Tech," CETIS 2014, June 18, 2014</p>
 <p>Watters Audrey with Li Yuan, Stephen Powell, and Amy Woodgate, "Open Education: A New World Order," CETIS 2014, June 17, 2014</p>
@@ -208,6 +211,7 @@
 <p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Awards and Activities</h3>
 <p>Advisor, Working Examples, Summer 2013 - present</p>
+<p>Conference Committee DML 2015, Summer 2014 - present</p>
 <p>Advisory Board, SXSWedu, 2012 - 2014</p>
 <p>Judge, Canvas Innovation Grant, Spring 2014</p>
 <p>Fellow, Educause Learning Initiative, Winter 2013 - Winter 2014</p>
@@ -220,7 +224,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated July 2014</h6>
+<h6>last updated August 2014</h6>
 
 
 </body>
