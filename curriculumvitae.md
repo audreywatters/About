@@ -120,7 +120,10 @@
 <p>---. "The Legacy of Julia Butterfly Hill" [book review]. <i>Women and Environments International.</i> 52/53 (2001): 45-46</p>
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
-<h3>Presentations</h3>
+<h3>Keynotes and Presentations</h3>
+<p>Watters, Audrey, "Teaching Machines: A Brief History of 'Teaching at Scale,'" Harvard University, September 10, 2014</p>
+<p>---, "Beyond the LMS," Newcastle University, September 5, 2014</p>
+<p>---, "Ed-Tech's Monsters," ALT-C, September 3, 2014.</p>
 <p>Watters, Audrey, with Justin Reich, Vanessa Gennarelli, and Andrew Sliwinski. "Better Learning Analytics: Lessons from EdX, Hack Education, Mozilla + P2PU," P2PU webinar, August 19, 2014.</p>
 <p>Watters, Audrey, with Jonathan Worth, Jade Davis, Howard Rheingold, Martha Burtis, and Anne Balsamo. "Higher Education as a Trusted Environment for Learning," HASTAC webinar, July 29, 2014</p>
 <p>Watters, Audrey, "Un-fathom-able: The Hidden History of Ed-Tech," CETIS 2014, June 18, 2014</p>
@@ -139,7 +142,7 @@
 <p>Watters, Audrey and Jose Vilson, "The Privileged Voices in Education," Educon, January 26, 2014</p>
 <p>Watters, Audrey with Bryan Alexander, Anya Kamenetz, Ray Schroeder, Cathy De Rosa, and Skip Pritchard. "The Hype and Hope of MOOCs," OCLC Americas Member Meeting and Symposium, January 24, 2014</p>
 <p>Watters, Audrey. "Education APIs: The Good, The Bad, and The Ugly," API Days, December 5, 2013</p>
-<p>---. "The State of Global OER," AMICAL (webinar), November 25, 2013</p>
+<p>---. "The State of Global OER," AMICAL webinar, November 25, 2013</p>
 <p>---. “The Education Apocalypse.” Open Education 2013, November 7, 2013</p>
 <p>Watters, Audrey with Steve Hargadon. “Learning and Technology: Openness, Agency, and Control.” K12 Online, October 21, 2013</p>
 <p>Watters, Audrey. "Student Data is the New Oil: MOOCs, Metaphors, and Money." Columbia University, October 16, 2013</p>
@@ -153,7 +156,7 @@
 <p>Watters, Audrey, "Whose Learning Is It Anyway?" WebWise, March 8, 2013</p>
 <p>Watters, Audrey, with Steve Weber, Steven Hodas, and Jess Bialecki, "Building Schools into the Innovation Ecosystem," SXSWedu, March 5, 2013</p>
 <p>Watters, Audrey, with Richard Culatta, Sir Jim Knight, and Rod Berger, "A Lord, a Lady and a Deputy Walk into a..." SXSWedu, March 5, 2013</p>
-<p>Watters, Audrey. "Who Owns Your Education Data? (And Why Does It Matter?" ETMOOC, February 26, 2013</p>
+<p>Watters, Audrey. "Who Owns Your Education Data? (And Why Does It Matter?)" ETMOOC, February 26, 2013</p>
 <p>---, panelist, Education and APIs, API Business and Strategy Conference, February 22, 2013</p>
 <p>---. "Who Owns Your Education Data?" Disrupting Higher Education, Trinity College February 19. 2013</p>
 <p>---. "The Case for the Campus Makerspace," ELI Annual Meeting, February 6, 2013</p>
@@ -181,6 +184,7 @@
 <p>Vanderford, Audrey. Folklore and Religion. Guest lecture. English 250 Introduction to Folklore. University of Oregon, November 11, 1999</p>
 <h3>Podcasts</h3>
 <p>Watters, Audrey, with Steve Hargadon.  Hack Education Weekly Podcast, 2011 - 2013</p>
+<p>Guest appearance on Writing, Education, Technology</p>
 <p>Guest appearance on Edukwest</p>
 <p>Guest appearances on The Digital Campus</p>
 <h3>Courses Taught</h3>
@@ -210,6 +214,7 @@
 <p>---. Whose Streets? Our Streets! Whose World? Our World! -- Narratives and Negotiation after the WTO, California Folklore Society Meeting. Berkeley, CA, April 14-15, 2000</p>
 <p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Awards and Activities</h3>
+<p>Board Member, Inquiry Schools, Summer 2014 - present</p>
 <p>Advisor, Working Examples, Summer 2013 - present</p>
 <p>Conference Committee DML 2015, Summer 2014 - present</p>
 <p>Advisory Board, SXSWedu, 2012 - 2014</p>
@@ -224,7 +229,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated August 2014</h6>
+<h6>last updated September 2014</h6>
 
 
 </body>
