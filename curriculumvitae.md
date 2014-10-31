@@ -96,14 +96,15 @@
 <p>Watters, Audrey. "How Will the Ed-Tech Industry Shape Student Reading?" Knowledge Quest, September 2014.</p>
 <p>---. "Decoding 'Everyone Should Learn to Code.'" World Innovation Summit for Education, August 2014.</p>
 <p>---. "Rise of the Machines," EdTech Magazine, Spring 2014</p>
+<p>---. <a href="http://modernlearners.com/author/audreywatters/">Educating Modern Learners archive</a>, April 2014 - present</p>
 <p>---. "Big Data: Who Really Benefits?" World Innovation Summit for Education, January 2014</p>
 <p>---. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." The Atlantic, October 2013</p>
 <p>---. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
+<p>---. <a href="http://www.insidehighered.com/blogs/hack-higher-education">Inside Higher Ed archive</a>, Winter 2011 - Spring 2013</p>
 <p>---. "Confessions of a MOOC-her," Campus Technology, December 2012</p>
 <p>---. "Unbundling and Unmooring," EDUCAUSE Review, September 2012</p>
 <p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012</p>
-<p>Watters, Audrey. <a href="http://www.insidehighered.com/blogs/hack-higher-education">Inside Higher Ed archive</a>, Winter 2011 - present</p>
-<p>---. "<a href="http://www.schoollibraryjournal.com/slj/printissue/currentissue/894185-427/to_have_and_have_not.html.csp">To Have and Have Not: When It Comes To The Latest Technology, Some Schools Are More Equal Than Others</a>," School Library Journal, May 2012</p>
+<p>Watters, Audrey. "<a href="http://www.schoollibraryjournal.com/slj/printissue/currentissue/894185-427/to_have_and_have_not.html.csp">To Have and Have Not: When It Comes To The Latest Technology, Some Schools Are More Equal Than Others</a>," School Library Journal, May 2012</p>
 <p>---. "<a href="http://www.schoollibraryjournal.com/slj/technology/toolsandtrends/893225-358/the_truth_about_tablets_educators.html.csp">The Truth About Tablets</a>," School Library Journal, February 2012</p>
 <p>---. <a href="http://radar.oreilly.com/audreyw/">O'Reilly Radar archive</a>, Spring 2011 - Summer 2012</p>
 <p>---. <a href="http://mindshift.kqed.org/author/awatters/">MindShift archive</a>, Spring 2011 - Winter 2012</p>
@@ -120,73 +121,84 @@
 <p>---. "The Legacy of Julia Butterfly Hill" [book review]. <i>Women and Environments International.</i> 52/53 (2001): 45-46</p>
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
-<h3>Keynotes and Presentations</h3>
-<p>Watters, Audrey, "Teaching Machines: A Brief History of 'Teaching at Scale,'" Harvard University, September 10, 2014</p>
-<p>---, "Beyond the LMS," Newcastle University, September 5, 2014</p>
-<p>---, "Ed-Tech's Monsters," ALT-C, September 3, 2014.</p>
-<p>Watters, Audrey, with Justin Reich, Vanessa Gennarelli, and Andrew Sliwinski. "Better Learning Analytics: Lessons from EdX, Hack Education, Mozilla + P2PU," P2PU webinar, August 19, 2014.</p>
-<p>Watters, Audrey, with Jonathan Worth, Jade Davis, Howard Rheingold, Martha Burtis, and Anne Balsamo. "Higher Education as a Trusted Environment for Learning," HASTAC webinar, July 29, 2014</p>
-<p>Watters, Audrey, "Un-fathom-able: The Hidden History of Ed-Tech," CETIS 2014, June 18, 2014</p>
-<p>Watters Audrey with Li Yuan, Stephen Powell, and Amy Woodgate, "Open Education: A New World Order," CETIS 2014, June 17, 2014</p>
-<p>Watters, Audrey with Kin Lane, "Reclaim Your Domain," API Days Mediterranea, May 29, 2014</p>
-<p>Watters, Audrey, "The Future of Ed-Tech is a Reclamation Project," Alberta Digital Learning Forum, May 22, 2014</p>
-<p>---, "Against Innovation," Canadian Network for Innovation in Education, May 14, 2014</p>
-<p>---, "Robots and Education Labor," Berkeley City College, May 10, 2014</p>
-<p>Watters, Audrey with Kin Lane, "Reclaim Your Domain," Domain of One's Own Atlanta Regional Incubator, April 26, 2014</p>
-<p>Watters, Audrey, "Beneath the Cobblestones, a Domain of One's Own," Domain of One's Own Atlanta Regional Incubator, April 25, 2014</p>
-<p>Watters, Audrey with Drew Davidson, "Reaching Our Audiences: Strategies for Disseminating Research, Design, and Practice," Working Examples, April 15, 2014</p>
-<p>Watters, Audrey, "Engaging Flexible Learning," BC Digital Learning Conference, April 8, 2014</p>
-<p>Watters, Audrey with David Kernohan, Lou McGill, Jonathan Worth, Antonio Martinez-Arboleda, Viv Rolfe, George Roberts, Lorna Campbell, Jim Groom, and David Wiley. "Beyond MOOCs," Digifest, March 12, 2014</p>
-<p>Watters, Audrey with George Veletsianos, Amy Collier, and Tanya Joosten. "Startups Should Talk with Researchers and Educators," SXSWedu, March 5, 2014</p>
-<p>Watters, Audrey. "The History of the Future of Ed-Tech," EdTechTeacher iPad Summit, February 4, 2014</p>
-<p>Watters, Audrey and Jose Vilson, "The Privileged Voices in Education," Educon, January 26, 2014</p>
-<p>Watters, Audrey with Bryan Alexander, Anya Kamenetz, Ray Schroeder, Cathy De Rosa, and Skip Pritchard. "The Hype and Hope of MOOCs," OCLC Americas Member Meeting and Symposium, January 24, 2014</p>
-<p>Watters, Audrey. "Education APIs: The Good, The Bad, and The Ugly," API Days, December 5, 2013</p>
-<p>---. "The State of Global OER," AMICAL webinar, November 25, 2013</p>
+<h3>Keynotes and Conference Presentations</h3>
+<p>Watters, Audrey. "Beyond the LMS," Newcastle University, September 5, 2014</p>
+<p>---. "Ed-Tech's Monsters," ALT-C, September 3, 2014</p>
+<p>---. "Un-fathom-able: The Hidden History of Ed-Tech," CETIS 2014, June 18, 2014</p>
+<p>Watters, Audrey with Kin Lane. "Reclaim Your Domain," API Days Mediterranea, May 29, 2014</p>
+<p>Watters, Audrey. "The Future of Ed-Tech is a Reclamation Project," Alberta Digital Learning Forum, May 22, 2014</p>
+<p>---. "Against Innovation," Canadian Network for Innovation in Education, May 14, 2014</p>
+<p>---. "Robots and Education Labor," Berkeley City College, May 10, 2014</p>
+<p>Watters, Audrey with Kin Lane. "Reclaim Your Domain," Domain of One's Own Atlanta Regional Incubator, April 26, 2014</p>
+<p>Watters, Audrey. "Beneath the Cobblestones, a Domain of One's Own," Domain of One's Own Atlanta Regional Incubator, April 25, 2014</p>
+<p>---. "Engaging Flexible Learning," BC Digital Learning Conference, April 8, 2014</p>
+<p>---. "The History of the Future of Ed-Tech," EdTechTeacher iPad Summit, February 4, 2014</p>
+<p>---. "Education APIs: The Good, The Bad, and The Ugly," API Days, December 5, 2013</p>
 <p>---. “The Education Apocalypse.” Open Education 2013, November 7, 2013</p>
 <p>Watters, Audrey with Steve Hargadon. “Learning and Technology: Openness, Agency, and Control.” K12 Online, October 21, 2013</p>
 <p>Watters, Audrey. "Student Data is the New Oil: MOOCs, Metaphors, and Money." Columbia University, October 16, 2013</p>
 <p>---. "A Future With Only 10 Universities," Minding the Future, October 14, 2013</p>
-<p>Watters, Audrey, with Gardner Campbell, David Wiley, Alan Levine, and Kin Lane. Minding the Future panel. October 14, 2013</p>
-<p>Watters, Audrey, with Gardner Campbell and Steve Hargadon. "Disruptive Innovation and Higher Ed" panel, Virginia Community Colleges' Chancellor's Planning Retreat, August 13-14, 2013</p>
 <p>Watters, Audrey and Kin Lane. "The LMS as Portal," InstructureCon, June 19, 2013</p>
 <p>Watters, Audrey. "[Expletive Deleted] Ed-Tech," Ed-Tech Innovation, May 3, 2013</p>
 <p>---. "<a href="http://youtu.be/_CdrDKG48vw">The Three Laws of Ed-Tech Robotics</a>," TEDxNYED, April 27, 2013</p>
-<p>Watters, Audrey, with Mako Hill and Philipp Schmidt. "Open Learning," MIT Media Lab, March 11, 2013</p>
-<p>Watters, Audrey, "Whose Learning Is It Anyway?" WebWise, March 8, 2013</p>
-<p>Watters, Audrey, with Steve Weber, Steven Hodas, and Jess Bialecki, "Building Schools into the Innovation Ecosystem," SXSWedu, March 5, 2013</p>
-<p>Watters, Audrey, with Richard Culatta, Sir Jim Knight, and Rod Berger, "A Lord, a Lady and a Deputy Walk into a..." SXSWedu, March 5, 2013</p>
-<p>Watters, Audrey. "Who Owns Your Education Data? (And Why Does It Matter?)" ETMOOC, February 26, 2013</p>
-<p>---, panelist, Education and APIs, API Business and Strategy Conference, February 22, 2013</p>
+<p>---. "Whose Learning Is It Anyway?" WebWise, March 8, 2013</p>
 <p>---. "Who Owns Your Education Data?" Disrupting Higher Education, Trinity College February 19. 2013</p>
 <p>---. "The Case for the Campus Makerspace," ELI Annual Meeting, February 6, 2013</p>
-<p>---. panelist, 2013 Horizon Report, ELI Annual Meeting, February 4, 2013</p>
 <p>---. "The Politics of Ed-tech." Educon, January 27, 2013</p>
-<p>---. panelist, Beyond the Textbook, New York University, November 30, 2012</p>
 <p>---.  "Publishing Outside the Academy." THATCamp Hybrid Pedagogy, October 21, 2012</p>
 <p>---. "Ed-Tech and the 3 Laws of Robotics, " Learning 2.0, August 24, 2012</p>
 <p>Watters, Audrey, with Steve Hargadon. "Drilling Down on the Real Impacts of Emerging Technologies in Education," Emerging Technologies for Online Learning Symposium, July 26, 2012</p>
 <p>Watters, Audrey. "Ed-Tech and the 3 Laws of Robotics," CALI conference, June 22, 2012</p>
-<p>Watters, Audrey, with Philipp Schmidt.  "OER from the Edge:  MOOC Shop."  Innovate/Activate.  University of California, Berkeley, April 21, 2012</p>
-<p>---.  "Massive Open Online Classes and the Future of EDU."  Higher Ed Live, April 15, 2012</p>
-<p>Watters, Audrey, with Betsy Corcoran, Lisa Wolfe, and Frank Catalano.  "Ed-Tech Reporting: Why It Sucks and What We Should Do About It."  SXSWedu.  March 8, 2012</p>
-<p>Watters, Audrey. "Moving Beyond Our Hatred of Blackboard."  University of Texas, Austin.  Guest talk for George Veletsianos' class.  March 8, 2012</p>
-<p>---.  "The State of Ed-Tech in 2012."  Higher Ed Live, January 8, 2012</p>
-<p>  Watters, Audrey, with Dawn Shrum. "Brownbag: Facebook Privacy." International Society for Technology in Education. November 20, 2009</p>
-<p>Vanderford, Audrey. Zine workshop. ENG 410/510 Community Literacy. Prof. Suzanne Clark. University of Oregon. Summer, 2004, Summer 2002, Summer 2001</p>
-<p>---.  "Reality TV: Postmodernism, the Hyperreal, <i>The Osbournes</i>." Guest lecture. English 266 History of the Motion Picture: World War II to the present. University of Oregon, May 28, 2003</p>
-<p>---.  Freedom and Focus: Engaging Students with Innovative Units panel. Composition and Community Fall Composition Conference, University of Oregon, September 25, 2002</p>
 <p>---. "Anarcha-feminism." Anarchy: The Intentional Creation of a New Movement. June 12, 2002</p>
-<p>---. Theory and Practice panel. Ecological Conversations Colloquium. University of Oregon, May 6, 2002</p>
 <p>---. "Anarchism and Feminism." Against Patriarchy conference. January 27, 2002</p> 
-<p>---. "Pie Politics." <i>To the Point</i>. Public Radio International. May 21, 2001</p>
 <p>Richardson, Tina and Audrey Vanderford, Boobs and Butterflies: Eco-feminine Complicity (Or, How to Manufacture an Environmental Pin-up Girl). Ecological Conversations Seminar. University of Oregon, April 6, 2001</p>
-<p>Vanderford, Audrey. Folklore and Religion. Guest lecture. English 250 Introduction to Folklore. University of Oregon, November 11, 1999</p>
-<h3>Podcasts</h3>
-<p>Watters, Audrey, with Steve Hargadon.  Hack Education Weekly Podcast, 2011 - 2013</p>
+<h3>Panel Presentations</h3>
+<p>Watters Audrey with Li Yuan, Stephen Powell, and Amy Woodgate. "Open Education: A New World Order," CETIS 2014, June 17, 2014</p>
+<p>Watters, Audrey with David Kernohan, Lou McGill, Jonathan Worth, Antonio Martinez-Arboleda, Viv Rolfe, George Roberts, Lorna Campbell, Jim Groom, and David Wiley. "Beyond MOOCs," Digifest, March 12, 2014</p>
+<p>Watters, Audrey with George Veletsianos, Amy Collier, and Tanya Joosten. "Startups Should Talk with Researchers and Educators," SXSWedu, March 5, 2014</p>
+<p>Watters, Audrey and Jose Vilson. "The Privileged Voices in Education," Educon, January 26, 2014</p>
+<p>Watters, Audrey with Bryan Alexander, Anya Kamenetz, Ray Schroeder, Cathy De Rosa, and Skip Pritchard. "The Hype and Hope of MOOCs," OCLC Americas Member Meeting and Symposium, January 24, 2014</p>
+<p>Watters, Audrey, with Gardner Campbell, David Wiley, Alan Levine, and Kin Lane. Minding the Future panel. October 14, 2013</p>
+<p>Watters, Audrey, with Gardner Campbell and Steve Hargadon. "Disruptive Innovation and Higher Ed" panel, Virginia Community Colleges' Chancellor's Planning Retreat, August 13-14, 2013</p>
+<p>Watters, Audrey, with Mako Hill and Philipp Schmidt. "Open Learning," MIT Media Lab, March 11, 2013</p>
+<p>Watters, Audrey, with Steve Weber, Steven Hodas, and Jess Bialecki. "Building Schools into the Innovation Ecosystem," SXSWedu, March 5, 2013</p>
+<p>Watters, Audrey, with Richard Culatta, Sir Jim Knight, and Rod Berger. "A Lord, a Lady and a Deputy Walk into a..." SXSWedu, March 5, 2013</p>
+<p>Watters, Audrey, Education and APIs, API Business and Strategy Conference, February 22, 2013</p>
+<p>---. 2013 Horizon Report, ELI Annual Meeting, February 4, 2013</p>
+<p>---. Beyond the Textbook, New York University, November 30, 2012</p>
+<p>Watters, Audrey, with Philipp Schmidt. "OER from the Edge:  MOOC Shop." Innovate/Activate.  University of California, Berkeley, April 21, 2012</p>
+<p>Watters, Audrey, with Betsy Corcoran, Lisa Wolfe, and Frank Catalano. "Ed-Tech Reporting: Why It Sucks and What We Should Do About It." SXSWedu. March 8, 2012</p>
+<p>Watters, Audrey. Freedom and Focus: Engaging Students with Innovative Units. Composition and Community Fall Composition Conference, University of Oregon, September 25, 2002</p>
+<p>---. Theory and Practice panel. Ecological Conversations Colloquium. University of Oregon, May 6, 2002</p>
+<h3>Guest Lectures</h3>
+<p>Watters, Audrey. visiting expert, "Open Knowledge," Stanford University, October 13, 2014.
+<p>---. "Teaching Machines: A Brief History of 'Teaching at Scale,'" Harvard University, September 10, 2014</p>
+<p>---. "Moving Beyond Our Hatred of Blackboard." University of Texas, Austin.  March 8, 2012</p>
+<p>---.  "Reality TV: Postmodernism, the Hyperreal, <i>The Osbournes</i>." Guest lecture. English 266 History of the Motion Picture: World War II to the present. University of Oregon, May 28, 2003</p>
+<p>Vanderford, Audrey. Zine workshop. ENG 410/510 Community Literacy. Prof. Suzanne Clark. University of Oregon. Summer, 2004, Summer 2002, Summer 2001</p>
+<p>---. Folklore and Religion. English 250 Introduction to Folklore. University of Oregon, November 11, 1999</p>
+<h3>Webinars</h3>
+<p>Watters, Audrey, with Justin Reich, Vanessa Gennarelli, and Andrew Sliwinski. "Better Learning Analytics: Lessons from EdX, Hack Education, Mozilla + P2PU," P2PU webinar, August 19, 2014.</p>
+<p>Watters, Audrey, with Jonathan Worth, Jade Davis, Howard Rheingold, Martha Burtis, and Anne Balsamo. "Higher Education as a Trusted Environment for Learning," HASTAC webinar, July 29, 2014</p>
+<p>Watters, Audrey with Drew Davidson. "Reaching Our Audiences: Strategies for Disseminating Research, Design, and Practice," Working Examples, April 15, 2014</p>
+<p>Watters, Audrey. "The State of Global OER," AMICAL webinar, November 25, 2013</p>
+<p>---. "Who Owns Your Education Data? (And Why Does It Matter?)" ETMOOC, February 26, 2013</p>
+<h3>Podcasts and Radio</h3>
+<p>Watters, Audrey, with Steve Hargadon. Hack Education Weekly Podcast, 2011 - 2013</p>
+<p>Guest appearance on Teaching in Higher Ed</p>
 <p>Guest appearance on Writing, Education, Technology</p>
 <p>Guest appearance on Edukwest</p>
+<p>Guest appearances on Higher Ed Live</p>
 <p>Guest appearances on The Digital Campus</p>
+<p>Guest appearance on To the Point</p>
+<h3>Academic Conference Papers</h3>
+<p>Vanderford, Audrey. Spoiling <i>Survivor</i>. Western States Folklore Society Meeting. Eugene, OR. April 15-16, 2005</p>
+<p>---. Detournement and the Anarchist Practice of Defamiliarization. (in absentia) MMLA conference. St. Louis, MO. November 4-7, 2004</p> 
+<p>---. Who Wants to Marry a Construction Worker? Class, Gender, and <i>Joe Millionaire</i>. Popular Culture Association conference. San Antonio, TX. April 7-11, 2004</p>
+<p>---. Political Pranks: Performing Anarchist Humor. Culture and the State. University of Alberta, Edmonton, AB. May 2-5, 2003</p>
+<p>---. Cant See the Forest for Her Tree: Celebrity, Activism, and the Legacy of Julia Butterfly Hill, Taking Nature Seriously: Citizens, Science, and Environment. University of Oregon, Eugene, OR, February 25-27, 2001; Looking Forward, Looking Back, Lewis &amp; Clark Gender Studies Symposium. Portland, OR, March 14-16, 2001</p>
+<p>---. Whose Streets? Our Streets! Whose World? Our World! -- Narratives and Negotiation after the WTO, California Folklore Society Meeting. Berkeley, CA, April 14-15, 2000</p>
+<p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Courses Taught</h3>
 <p>Writing for the Web, P2PU, Spring 2012</p>
 <p>Comparative Literature 399 Gender and Identity in Literature, University of Oregon, Summer 2007</p>
@@ -205,18 +217,10 @@
 <p>English 266 History of the Motion Picture: World War II to the Present, (Prof. Michael Aronson, Prof. Kathleen Karlyn), University of Oregon,  Spring 2004, Spring 2003</p>
 <p>English 265 History of the Motion Picture: The Silent Era to World War II, (Prof. Michael Aronson, Prof. Lesli Larson), University of Oregon,  Winter 2004, Winter 2003</p>
 <p>English 250 Introduction to Folklore, (Prof. Sharon Sherman), University of Oregon,  Fall 1999</p>
-<h3>Academic Conference Papers</h3>
-<p>Vanderford, Audrey. Spoiling <i>Survivor</i>. Western States Folklore Society Meeting. Eugene, OR. April 15-16, 2005</p>
-<p>---. Detournement and the Anarchist Practice of Defamiliarization. (in absentia) MMLA conference. St. Louis, MO. November 4-7, 2004</p> 
-<p>---. Who Wants to Marry a Construction Worker? Class, Gender, and <i>Joe Millionaire</i>. Popular Culture Association conference. San Antonio, TX. April 7-11, 2004</p>
-<p>---. Political Pranks: Performing Anarchist Humor. Culture and the State. University of Alberta, Edmonton, AB. May 2-5, 2003</p>
-<p>---. Cant See the Forest for Her Tree: Celebrity, Activism, and the Legacy of Julia Butterfly Hill, Taking Nature Seriously: Citizens, Science, and Environment. University of Oregon, Eugene, OR, February 25-27, 2001; Looking Forward, Looking Back, Lewis &amp; Clark Gender Studies Symposium. Portland, OR, March 14-16, 2001</p>
-<p>---. Whose Streets? Our Streets! Whose World? Our World! -- Narratives and Negotiation after the WTO, California Folklore Society Meeting. Berkeley, CA, April 14-15, 2000</p>
-<p>---. Pioneers and Pagans: Celebrating the Summer Solstice in Casper, Wyoming, American Folklore Society Meeting. Memphis, TN, October 20-24, 1999</p>
 <h3>Awards and Activities</h3>
 <p>Board Member, Inquiry Schools, Summer 2014 - present</p>
-<p>Advisor, Working Examples, Summer 2013 - present</p>
 <p>Conference Committee DML 2015, Summer 2014 - present</p>
+<p>Advisor, Working Examples, 2013 - 2014</p>
 <p>Advisory Board, SXSWedu, 2012 - 2014</p>
 <p>Judge, Canvas Innovation Grant, Spring 2014</p>
 <p>Fellow, Educause Learning Initiative, Winter 2013 - Winter 2014</p>
@@ -229,7 +233,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated September 2014</h6>
+<h6>last updated October 2014</h6>
 
 
 </body>
