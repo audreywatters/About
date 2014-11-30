@@ -62,10 +62,10 @@
 <hr>
 <h3>   Professional Experience</h3>
 <p>Writer/Owner, <a href="http://hackeducation.com">Hack Education</a>, Spring 2010 - present</p>
-<p>Editor and Lead Writer, <a href="http://modernlearners.com">Educating Modern Leaders</a>, Spring 2014 - present</p>
 <p>Freelance Writer, Spring 2010 - present</p>
+<p>Editor and Lead Writer, <a href="http://modernlearners.com"><em>Educating Modern Leaders</em></a>, 2014</p>
 <p>Special Interest Group Program Manager, International Society for Technology in Education (ISTE), Spring 2008 - Spring 2010</p>
-<p>Graduate Teaching Fellowship, University of Oregon, Fall 1999 - Fall 2000, Fall 2001 - Summer 2007</p> 
+<p>Graduate Teaching Fellowship, University of Oregon, Fall 1999 - Fall 2000, Fall 2001 - Summer 2007</p>
 <p>Practicum Coordinator, University of Oregon Literacy Initiative, Winter - Spring 2001</p>
 <p>Conference Assistant, Center for the Study of Women in Society, University of Oregon, Winter 2000 - Winter 2001</p>
 <p>Graduate Assistant, Archivist, Randall V. Mills Folklore Archives, University of Oregon, Winter - Spring 2000</p>
@@ -93,24 +93,25 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications</h3>
-<p>Watters, Audrey. "How Will the Ed-Tech Industry Shape Student Reading?" Knowledge Quest, September 2014.</p>
+<p>Watters, Audrey. <em>The Monsters of Education Technology</em>. Tech Gypsies Publishing, 2014.</p>
+<p>---. "How Will the Ed-Tech Industry Shape Student Reading?" <em>Knowledge Quest</em>, September 2014.</p>
 <p>---. "Decoding 'Everyone Should Learn to Code.'" World Innovation Summit for Education, August 2014.</p>
-<p>---. "Rise of the Machines," EdTech Magazine, Spring 2014</p>
-<p>---. <a href="http://modernlearners.com/author/audreywatters/">Educating Modern Learners archive</a>, April 2014 - present</p>
+<p>---. "Rise of the Machines," <em>EdTech Magazine</em>, Spring 2014</p>
+<p>---. <a href="http://modernlearners.com/author/audreywatters/"><em>Educating Modern Learners</em> archive</a>, April 2014 - present</p>
 <p>---. "Big Data: Who Really Benefits?" World Innovation Summit for Education, January 2014</p>
-<p>---. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." The Atlantic, October 2013</p>
-<p>---. "MOOC Mania: Debunking the hype around massive open online courses," School Library Journal, April 2013</p>
-<p>---. <a href="http://www.insidehighered.com/blogs/hack-higher-education">Inside Higher Ed archive</a>, Winter 2011 - Spring 2013</p>
-<p>---. "Confessions of a MOOC-her," Campus Technology, December 2012</p>
-<p>---. "Unbundling and Unmooring," EDUCAUSE Review, September 2012</p>
-<p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/">Hack(ing) School(ing)</a>, Summer 2012</p>
-<p>Watters, Audrey. "<a href="http://www.schoollibraryjournal.com/slj/printissue/currentissue/894185-427/to_have_and_have_not.html.csp">To Have and Have Not: When It Comes To The Latest Technology, Some Schools Are More Equal Than Others</a>," School Library Journal, May 2012</p>
-<p>---. "<a href="http://www.schoollibraryjournal.com/slj/technology/toolsandtrends/893225-358/the_truth_about_tablets_educators.html.csp">The Truth About Tablets</a>," School Library Journal, February 2012</p>
-<p>---. <a href="http://radar.oreilly.com/audreyw/">O'Reilly Radar archive</a>, Spring 2011 - Summer 2012</p>
-<p>---. <a href="http://mindshift.kqed.org/author/awatters/">MindShift archive</a>, Spring 2011 - Winter 2012</p>
-<p>---. <a href="http://www.edutopia.org/blog/52839">Edutopia archive</a>, Summer 2011 - Fall 2011</p>
-<p>---. <a href="http://www.readwriteweb.com/archives/author/audrey-watters.php">ReadWriteWeb archive</a>, Spring 2010 - Summer 2011</p>
-<p>---. <a href="http://www.huffingtonpost.com/audrey-watters">Huffington Post archive</a>, Winter 2011 - Spring 2011</p>
+<p>---. "Students Are 'Hacking' Their School-Issued iPads: Good For Them." <em>The Atlantic</em>, October 2013</p>
+<p>---. "MOOC Mania: Debunking the hype around massive open online courses," <em>School Library Journal</em>, April 2013</p>
+<p>---. <a href="http://www.insidehighered.com/blogs/hack-higher-education"><em>Inside Higher Ed</em> archive</a>, Winter 2011 - Spring 2013</p>
+<p>---. "Confessions of a MOOC-her," <em>Campus Technology</em>, December 2012</p>
+<p>---. "Unbundling and Unmooring," <em>EDUCAUSE Review</em>, September 2012</p>
+<p>Watters, Audrey with Jon Becker, editors. <a href="http://hackingschooling.com/"><em>Hack(ing) School(ing)</em></a>, Summer 2012</p>
+<p>Watters, Audrey. "<a href="http://www.schoollibraryjournal.com/slj/printissue/currentissue/894185-427/to_have_and_have_not.html.csp">To Have and Have Not: When It Comes To The Latest Technology, Some Schools Are More Equal Than Others</a>," <em>School Library Journal</em>, May 2012</p>
+<p>---. "<a href="http://www.schoollibraryjournal.com/slj/technology/toolsandtrends/893225-358/the_truth_about_tablets_educators.html.csp">The Truth About Tablets</a>," <em>School Library Journal</em>, February 2012</p>
+<p>---. <a href="http://radar.oreilly.com/audreyw/"><em>O'Reilly Radar</em> archive</a>, Spring 2011 - Summer 2012</p>
+<p>---. <a href="http://mindshift.kqed.org/author/awatters/"><em>MindShift</em> archive</a>, Spring 2011 - Winter 2012</p>
+<p>---. <a href="http://www.edutopia.org/blog/52839"><em>Edutopia</em> archive</a>, Summer 2011 - Fall 2011</p>
+<p>---. <a href="http://www.readwriteweb.com/archives/author/audrey-watters.php"><em>ReadWriteWeb</em> archive</a>, Spring 2010 - Summer 2011</p>
+<p>---. <a href="http://www.huffingtonpost.com/audrey-watters"><em>Huffington Post</em> archive</a>, Winter 2011 - Spring 2011</p>
 <p>Vanderford, Audrey. "Activism." <i>Encyclopedia of Women's Folklore and Folklife</i>. ed. Ed Liz Locke, Theresa A Vaughan and Pauline Greenhill. Westport: Greenwood Press,2009, 3-4</p>
 <p>---. "Consciousness Raising." <i>Encyclopedia of Women's Folklore and Folklife</i>. ed. Ed Liz Locke, Theresa A Vaughan and Pauline Greenhill. Westport: Greenwood Press, 2009, 97-99</p>
 <p>---. "Emma Goldman." <i>Encyclopedia of Women's Autobiography</i>. ed. Victoria Boynton and Jo Malin. Westport: Greenwood Press, 2005, 250-252</p>
@@ -122,7 +123,7 @@
 <p>---. "Pie, Oh My!" <i>Oregon Quarterly</i>. 80.4 (2001): 8</p>
 <p>---. "We Can Lick the Upper Crust Pies as Political Pranks. <i>to the Quick Journal</i>. 4 (2001): 7-20</p>
 <h3>Keynotes and Conference Presentations</h3>
-<p>Watters, Audrey. "Beyond the LMS," Newcastle University, September 5, 2014</p>
+<p>Watters, Audrey. "From 'Open' to Justice." OpenCon 2014. November 16, 2014.</p>
 <p>---. "Ed-Tech's Monsters," ALT-C, September 3, 2014</p>
 <p>---. "Un-fathom-able: The Hidden History of Ed-Tech," CETIS 2014, June 18, 2014</p>
 <p>Watters, Audrey with Kin Lane. "Reclaim Your Domain," API Days Mediterranea, May 29, 2014</p>
@@ -153,7 +154,8 @@
 <p>---. "Anarchism and Feminism." Against Patriarchy conference. January 27, 2002</p> 
 <p>Richardson, Tina and Audrey Vanderford, Boobs and Butterflies: Eco-feminine Complicity (Or, How to Manufacture an Environmental Pin-up Girl). Ecological Conversations Seminar. University of Oregon, April 6, 2001</p>
 <h3>Panel Presentations</h3>
-<p>Watters Audrey with Li Yuan, Stephen Powell, and Amy Woodgate. "Open Education: A New World Order," CETIS 2014, June 17, 2014</p>
+<p>Watters, Audrey with Karen Gregory, Daniel Joseph, Matthew Tiessen, Austin Walker, and Dan Greene. "Digital Labor and Geographies of Crisis." Digital Labor 2014. November 15, 2014.</p>
+<p>Watters, Audrey with Li Yuan, Stephen Powell, and Amy Woodgate. "Open Education: A New World Order," CETIS 2014, June 17, 2014</p>
 <p>Watters, Audrey with David Kernohan, Lou McGill, Jonathan Worth, Antonio Martinez-Arboleda, Viv Rolfe, George Roberts, Lorna Campbell, Jim Groom, and David Wiley. "Beyond MOOCs," Digifest, March 12, 2014</p>
 <p>Watters, Audrey with George Veletsianos, Amy Collier, and Tanya Joosten. "Startups Should Talk with Researchers and Educators," SXSWedu, March 5, 2014</p>
 <p>Watters, Audrey and Jose Vilson. "The Privileged Voices in Education," Educon, January 26, 2014</p>
@@ -171,12 +173,17 @@
 <p>Watters, Audrey. Freedom and Focus: Engaging Students with Innovative Units. Composition and Community Fall Composition Conference, University of Oregon, September 25, 2002</p>
 <p>---. Theory and Practice panel. Ecological Conversations Colloquium. University of Oregon, May 6, 2002</p>
 <h3>Guest Lectures</h3>
-<p>Watters, Audrey. visiting expert, "Open Knowledge," Stanford University, October 13, 2014.
-<p>---. "Teaching Machines: A Brief History of 'Teaching at Scale,'" Harvard University, September 10, 2014</p>
+<p>Watters, Audrey. "Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent." University of Mary Washington. University of Regina. November 18, 2014.</p>
+<p>---. "Convivial Tools in an Age of Surveillance." New York University. November 13, 2014.</p>
+<p>---. "Ed-Tech Privacy and Terms of Service (Workshop)." Pepperdine University. November 5, 2014.</p>
+<p>---. "The Future of Education: Programmed or Programmable." Pepperdine University. November 4, 2014.</p>
+<p>---. visiting expert, "Open Knowledge." Stanford University. October 13, 2014.
+<p>---. "Teaching Machines: A Brief History of 'Teaching at Scale.'" Harvard University. September 10, 2014</p>
+<p>---. "Beyond the LMS," Newcastle University, September 5, 2014</p>
 <p>---. "Moving Beyond Our Hatred of Blackboard." University of Texas, Austin.  March 8, 2012</p>
-<p>---.  "Reality TV: Postmodernism, the Hyperreal, <i>The Osbournes</i>." Guest lecture. English 266 History of the Motion Picture: World War II to the present. University of Oregon, May 28, 2003</p>
+<p>---.  "Reality TV: Postmodernism, the Hyperreal, <i>The Osbournes</i>." Guest lecture. English 266 History of the Motion Picture: World War II to the present. University of Oregon. May 28, 2003</p>
 <p>Vanderford, Audrey. Zine workshop. ENG 410/510 Community Literacy. Prof. Suzanne Clark. University of Oregon. Summer, 2004, Summer 2002, Summer 2001</p>
-<p>---. Folklore and Religion. English 250 Introduction to Folklore. University of Oregon, November 11, 1999</p>
+<p>---. Folklore and Religion. English 250 Introduction to Folklore. University of Oregon. November 11, 1999</p>
 <h3>Webinars</h3>
 <p>Watters, Audrey, with Justin Reich, Vanessa Gennarelli, and Andrew Sliwinski. "Better Learning Analytics: Lessons from EdX, Hack Education, Mozilla + P2PU," P2PU webinar, August 19, 2014.</p>
 <p>Watters, Audrey, with Jonathan Worth, Jade Davis, Howard Rheingold, Martha Burtis, and Anne Balsamo. "Higher Education as a Trusted Environment for Learning," HASTAC webinar, July 29, 2014</p>
@@ -184,6 +191,7 @@
 <p>Watters, Audrey. "The State of Global OER," AMICAL webinar, November 25, 2013</p>
 <p>---. "Who Owns Your Education Data? (And Why Does It Matter?)" ETMOOC, February 26, 2013</p>
 <h3>Podcasts and Radio</h3>
+<p>Watters, Audrey. Ed-Tech Concerns, November - December, 2014</p>
 <p>Watters, Audrey, with Steve Hargadon. Hack Education Weekly Podcast, 2011 - 2013</p>
 <p>Guest appearance on Teaching in Higher Ed</p>
 <p>Guest appearance on Writing, Education, Technology</p>
@@ -218,6 +226,7 @@
 <p>English 265 History of the Motion Picture: The Silent Era to World War II, (Prof. Michael Aronson, Prof. Lesli Larson), University of Oregon,  Winter 2004, Winter 2003</p>
 <p>English 250 Introduction to Folklore, (Prof. Sharon Sherman), University of Oregon,  Fall 1999</p>
 <h3>Awards and Activities</h3>
+<p>Recipient, Shuttleworth Foundation Flash Grant, 2014</p>
 <p>Board Member, Inquiry Schools, Summer 2014 - present</p>
 <p>Conference Committee DML 2015, Summer 2014 - present</p>
 <p>Advisor, Working Examples, 2013 - 2014</p>
@@ -233,7 +242,7 @@
 <p>General University Scholarship, University of Oregon, 2003-2006</p>
 
 
-<h6>last updated October 2014</h6>
+<h6>last updated November 2014</h6>
 
 
 </body>
