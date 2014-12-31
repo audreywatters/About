@@ -93,12 +93,12 @@
 <p>International Baccalaureate </p>
 <p>St. Clares, Oxford England, 1990</p>
 <h3>Publications</h3>
-<p>Watters, Audrey. <em>The Monsters of Education Technology</em>. Tech Gypsies Publishing, 2014.</p>
-<p>---. "Teacher Wars and Teaching Machines. "<em>Boundary 2</em>, December 2014.</p>
-<p>---. "Ed-Tech Year in Review." <em>Model View Culture</em>, December 2014.</p>
-<p>---. "The Problem with Personalization," <em>Australian Educational Leader</em>, November 2014.</p>
-<p>---. "How Will the Ed-Tech Industry Shape Student Reading?" <em>Knowledge Quest</em>, September 2014.</p>
-<p>---. "Decoding 'Everyone Should Learn to Code.'" World Innovation Summit for Education, August 2014.</p>
+<p>Watters, Audrey. <em>The Monsters of Education Technology</em>. Tech Gypsies Publishing, 2014</p>
+<p>---. "Teacher Wars and Teaching Machines. "<em>Boundary 2</em>, December 2014</p>
+<p>---. "Ed-Tech Year in Review." <em>Model View Culture</em>, December 2014</p>
+<p>---. "The Problem with Personalization," <em>Australian Educational Leader</em>, November 2014</p>
+<p>---. "How Will the Ed-Tech Industry Shape Student Reading?" <em>Knowledge Quest</em>, September 2014</p>
+<p>---. "Decoding 'Everyone Should Learn to Code.'" World Innovation Summit for Education, August 2014</p>
 <p>---. "Rise of the Machines," <em>EdTech Magazine</em>, Spring 2014</p>
 <p>---. <a href="http://modernlearners.com/author/audreywatters/"><em>Educating Modern Learners</em> archive</a>, April 2014 - present</p>
 <p>---. "Big Data: Who Really Benefits?" World Innovation Summit for Education, January 2014</p>
