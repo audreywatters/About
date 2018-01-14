@@ -1,2 +1,1 @@
-Audrey Watters
-Curriculum Vitae
+This repository contains my CV, my biography, and other files "about me"
