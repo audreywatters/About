@@ -81,7 +81,7 @@
 <outline text="DML Central" title="DML Central" type="rss" xmlUrl="http://dmlcentral.net/rss.xml" htmlUrl="https://dmlcentral.net"/>
 <outline text="Remaking the University" title="Remaking the University" type="rss" xmlUrl="http://utotherescue.blogspot.com/feeds/posts/default" htmlUrl="http://utotherescue.blogspot.com/"/>
 <outline text="Dave’s Educational Blog" title="Dave’s Educational Blog" type="rss" xmlUrl="http://davecormier.com/edblog/feed/" htmlUrl="http://davecormier.com/edblog"/>
-<outline text="Donald Clark       Plan B" title="Donald Clark       Plan B" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/dcplanb" htmlUrl="http://donaldclarkplanb.blogspot.com/"/>
+<outline text="Donald Clark Plan B" title="Donald Clark Plan B" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/dcplanb" htmlUrl="http://donaldclarkplanb.blogspot.com/"/>
 <outline text="Education International - Latest News about Education Unions Worldwide" title="Education International - Latest News about Education Unions Worldwide" type="rss" xmlUrl="http://www.ei-ie.org/en/rss/latestnews/en.rss" htmlUrl="https://www.ei-ie.org/en/rss/latestnews/en.rss"/>
 <outline text="iterating toward openness" title="iterating toward openness" type="rss" xmlUrl="http://opencontent.org/blog/feed" htmlUrl="https://opencontent.org/blog"/>
 <outline text="eCampus News" title="eCampus News" type="rss" xmlUrl="http://www.ecampusnews.com/feed/" htmlUrl="http://www.ecampusnews.com"/>
@@ -236,7 +236,6 @@
 <outline text="Eduwonk" title="Eduwonk" type="rss" xmlUrl="https://www.eduwonk.com/feed" htmlUrl="https://www.eduwonk.com"/>
 <outline text="The Jose Vilson" title="The Jose Vilson" type="rss" xmlUrl="http://thejosevilson.com/feed/" htmlUrl="http://thejosevilson.com"/>
 <outline text="Sean Michael Morris" title="Sean Michael Morris" type="rss" xmlUrl="http://www.seanmichaelmorris.com/rss/" htmlUrl="http://www.seanmichaelmorris.com/"/>
-    <outline text="edubloggers" title="edubloggers">
 <outline text="Computer Science Teacher" title="Computer Science Teacher" type="rss" xmlUrl="http://feeds.feedburner.com/ComputerScienceTeacher" htmlUrl="http://blog.acthompson.net/"/>
 <outline text="Harold Jarche" title="Harold Jarche" type="rss" xmlUrl="http://www.jarche.com/feed/" htmlUrl="http://jarche.com"/>
 <outline text="Learning with 'e's" title="Learning with 'e's" type="rss" xmlUrl="http://feeds2.feedburner.com/blogspot/cYWZ" htmlUrl="http://www.steve-wheeler.co.uk/"/>
@@ -249,8 +248,6 @@
 <outline text="Mike Klonsky's Blog" title="Mike Klonsky's Blog" type="rss" xmlUrl="http://michaelklonsky.blogspot.com/feeds/posts/default" htmlUrl="http://michaelklonsky.blogspot.com/"/>
 <outline text="Steve Hargadon" title="Steve Hargadon" type="rss" xmlUrl="http://www.stevehargadon.com/atom.xml" htmlUrl="http://www.stevehargadon.com/"/>
 <outline text="The Edublogger" title="The Edublogger" type="rss" xmlUrl="http://theedublogger.com/feed/" htmlUrl="https://www.theedublogger.com"/>
-    </outline>
-    <outline text="news---ed" title="news---ed">
 <outline text="BBC News - Family &amp; Education" title="BBC News - Family &amp; Education" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/education/rss.xml?edition=int" htmlUrl="http://www.bbc.co.uk/news/"/>
     </outline>
   </body>
